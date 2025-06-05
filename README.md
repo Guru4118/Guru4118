@@ -33,12 +33,13 @@ I'm Guruprasath from India 🇮🇳.
 
 ### 🌟 Projects
 
-- **AI Interviewer**: A complete mock interview system with resume parsing, AI questions (OpenAI), TTS, STT, scoring, and secure data deletion.
-- **Fake News Detector**: MERN app with image-to-text OCR and OpenAI-powered fact-checking, with downloadable PDF reports.
-- **Personal AI Therapist**: A secure AI-driven journaling, mental health & mood tracking web app with encrypted entries and chatbot support.
-- **Ocean Waste Detection**: Custom YOLOv5 model trained with Roboflow, alerts users with Twilio if waste is detected in underwater images.
-- **E-Commerce App**: MERN-based site with cart system, login support, and integrated Stripe payments.
-- **Blog & Comment System**: Scalable MERN app with JWT auth, Redis caching, rate limiting, and professional Tailwind UI.
+- **[AI Interviewer]((https://iqup.netlify.app/))**: A complete mock interview system with resume parsing, AI questions (OpenAI), TTS, STT, scoring, and secure data deletion.
+- **[Blog & Comment System](https://b1ogspace.netlify.app/)**: Scalable MERN app with JWT auth, Redis caching, rate limiting, and professional Tailwind UI.
+- **[E-Commerce App](https://y-not-premium-b533.onrender.com/)**: MERN-based site with cart system, login support, and integrated Stripe payments.
+- **[Fake News Detector](https://fake-news-1-ued8.onrender.com/dashboard)**: MERN app with image-to-text OCR and OpenAI-powered fact-checking, with downloadable PDF reports.
+- **[Ocean Waste Detection](https://universe.roboflow.com/ocean-2wxpy/ocean_waste-jujre/model/1)**: Custom YOLOv5 model trained with Roboflow, alerts users with Twilio if waste is detected in underwater images.
+  
+
 
 ---
 
