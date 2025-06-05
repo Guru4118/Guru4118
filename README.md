@@ -33,7 +33,7 @@ I'm Guruprasath from India 🇮🇳.
 
 ### 🌟 Projects
 
-- **[AI Interviewer]((https://iqup.netlify.app/))**: A complete mock interview system with resume parsing, AI questions (OpenAI), TTS, STT, scoring, and secure data deletion.
+- **[AI Interviewer](https://iqup.netlify.app/)**: A complete mock interview system with resume parsing, AI questions (OpenAI), TTS, STT, scoring, and secure data deletion.
 - **[Blog & Comment System](https://b1ogspace.netlify.app/)**: Scalable MERN app with JWT auth, Redis caching, rate limiting, and professional Tailwind UI.
 - **[E-Commerce App](https://y-not-premium-b533.onrender.com/)**: MERN-based site with cart system, login support, and integrated Stripe payments.
 - **[Fake News Detector](https://fake-news-1-ued8.onrender.com/dashboard)**: MERN app with image-to-text OCR and OpenAI-powered fact-checking, with downloadable PDF reports.
